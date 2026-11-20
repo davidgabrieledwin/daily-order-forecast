@@ -1,0 +1,12 @@
+/.venv/
+/data/
+/outputs/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+*.csv
+*.xlsx
+*.zip
+*.pem
+*.key
